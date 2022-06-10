@@ -92,7 +92,7 @@ When the user changes the url like this:
 - `/quotes/search?term=success`
 - `/quotes/search?term=miss`
 
-The server will respond with `life`, `success`, `miss`
+The server will respond with `life` , `success`, `miss`
 
 Extra (bonus) requirements:
 
